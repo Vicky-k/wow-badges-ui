@@ -1,0 +1,23 @@
+{
+  "name": "wow-badges-ui",
+  "scripts": {
+  },
+  "env": {
+  },
+  "environments": {
+    "test": {
+      "addons": ["heroku-postgresql:hobby-dev"],
+      "scripts": {
+        "test": "./gradlew clean pmdTest pmdMain test --debug"
+      }
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "buildpacks": [
+
+  ]
+}

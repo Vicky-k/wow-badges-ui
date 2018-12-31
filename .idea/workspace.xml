@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/cvp-wow-gui/wow-badges-gui" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/covr" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/delete-me" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/intro-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/intro-to-pair-programming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/populatron_java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/rabbitmq-dec12/rabbitmq-amqp-tutorials" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/tdd-vending-machine-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/tdd-vending-machine-java/tdd-vending-machine-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/wow-badges" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/wow-badges-final/wow-badges" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/wow-badges-modified" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/xp_java_problem_set_mocking" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/gateway-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/goodbye-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/hello-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/radhika/delete-me" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/radhika/spring-rest-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/wow-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/badge-assignment-mircoservice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/book-store" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/intro-to-boot" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/intro-to-boot_2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/rabbitmq-amqp-tutorials" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/dependency-injection" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/dependency-injection/xp_java_problem_set_di_with_reflection" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/gilded_rose_java" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/higher-order-functions" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/intro-to-mocking" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/java_scope_exercise" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/spring-rest-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/spring-rest-api/spring-rest-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/spring-rest-api_old" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
